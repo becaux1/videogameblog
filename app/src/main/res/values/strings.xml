@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mis Restaurantes</string>
+    <string name="volver">Volver</string>
+    <string name="nombre">Nombre</string>
+    <string name="hacer_foto">Hacer Foto</string>
+    <string name="direccion">Direccion</string>
+    <string name="valoraci_n">Valoración</string>
+    <string name="me_ha_encantado">Me ha Encantado!</string>
+    <string name="meh">Meh...</string>
+    <string name="mal_simo">Malísimo</string>
+    <string name="guardar">Guardar</string>
+    <string name="insertar_restaurante">Insertar Restaurante</string>
+    <string name="textview">TextView</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+</resources>
