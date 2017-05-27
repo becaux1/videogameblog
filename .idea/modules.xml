@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Videogame Backlog.iml" filepath="$PROJECT_DIR$/Videogame Backlog.iml" />
+      <module fileurl="file://C:\Users\david\StudioProjects\videogameblog\Videogame Backlog.iml" filepath="C:\Users\david\StudioProjects\videogameblog\Videogame Backlog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videogameblog.iml" filepath="$PROJECT_DIR$/videogameblog.iml" />
     </modules>
   </component>
 </project>

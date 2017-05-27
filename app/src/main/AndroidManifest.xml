@@ -9,15 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.david.misrestaurantes.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.david.misrestaurantes.MainActivity"/>
         <activity android:name=".FormularioActivity" />
-        <activity android:name=".FichaActivity"></activity>
+        <activity android:name=".FichaActivity" />
+
     </application>
 
 </manifest>

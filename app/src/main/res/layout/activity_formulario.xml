@@ -48,6 +48,13 @@
                 android:layout_height="wrap_content"
                 android:onClick="hacerFoto"
                 android:text="@string/hacer_foto" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Button"
+                android:onClick="galeria"/>
         </TableRow>
 
         <TableRow
@@ -60,12 +67,11 @@
                 android:layout_height="wrap_content"
                 android:text="Plataforma" />
 
-            <EditText
-                android:id="@+id/et_direccion"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textPersonName" />
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
         </TableRow>
 
         <TableRow
